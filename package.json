@@ -1,0 +1,25 @@
+{
+  "name": "demo-travel-site-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucod3/demo-travel-site-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucod3/demo-travel-site-01/issues"
+  },
+  "homepage": "https://github.com/ucod3/demo-travel-site-01#readme"
+}
